@@ -1,2 +1,2 @@
 <img src="https://img.shields.io/badge/yahoo-mail-purple?logo=yahoo&style=for-the-badge" />
-<img scr="https://camo.githubusercontent.com/18196415bd7593d3c6731941f453872949c9d44c52de6750144787810e9f5270/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46697265666f782d4646353333323f7374796c653d666f722d7468652d6261646765266c6f676f3d46697265666f782d42726f77736572266c6f676f436f6c6f723d7768697465" />
+<img scr2= "https://img.shields.io/badge/-Firefox-black?logo=firefox&style=for-the-badge" />
