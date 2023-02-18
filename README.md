@@ -6,7 +6,6 @@
 
 ### 🙋 Welcome to the my Github profile!
 
-##### 🧑‍💻 About me - You can find it 
 ##### 🍔 Fun fact - layers should be as followed; bread, mayonnaise, onions, pickles, ketchup, tomato, cheese, meat, letuce, bread .
 
 ### Some things I like...
