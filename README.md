@@ -1,10 +1,9 @@
+## Introduction
+- 🔭 I’m currently working on 🤖 [AI Chatbot Project]
+- 🌱 I’m currently learning  NodeJS 
+-  ⚡ Fun fact: I am trilingual - fluent in English 🇺🇸, Chinese 🇨🇳, and spanish 🇪🇸
+- 🏋️ Workout everyday!
 
-<img2 scr= "https://img.shields.io/badge/Firefox-black?logo=firefox&style=for-the-badge" />
-<P
-
-<a a>
-
-### 🙋 Welcome to the my Github profile!
 
 ##### 🍔 Fun fact - layers should be as followed; bread, mayonnaise, onions, pickles, ketchup, tomato, cheese, meat, letuce, bread .
 
