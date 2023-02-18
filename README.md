@@ -1,6 +1,6 @@
 
-#img2 scr= "https://img.shields.io/badge/Firefox-black?logo=firefox&style=for-the-badge" /
-<p
+<img2 scr= "https://img.shields.io/badge/Firefox-black?logo=firefox&style=for-the-badge" />
+<P
 
 <a a>
 
