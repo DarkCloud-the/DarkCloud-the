@@ -1,6 +1,6 @@
 ## Introduction
 - 🔭 I’m currently working on 🤖 [AI Chatbot Project]
-- 🌱 I’m currently learning  NodeJS 
+- 🌱 I’m currently learning to become fully profecit in full stack programming
 -  ⚡ Fun fact: I am trilingual - fluent in English 🇺🇸, Chinese 🇨🇳, and spanish 🇪🇸
 - 🏋️ Workout everyday!
 
