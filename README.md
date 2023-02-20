@@ -5,7 +5,7 @@
 - 🏋️ Workout everyday!
 ##### 🍔 Fun fact - layers should be as followed; bread, mayonnaise, onions, pickles, ketchup, tomato, cheese, meat, letuce, bread .
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Dark-Cloud&layout=compact)](https://github.com/The-Dark-Cloud/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/username=The-Dark-Cloud&layout=compact)](https://github.com/The-Dark-Cloud/github-readme-stats)
 
 
 ### Some things I like...
